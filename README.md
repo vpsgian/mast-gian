@@ -1,5 +1,4 @@
-# SMS Injector API
-
+# SMS 
 No folders. Just these 3 files at root:
 - index.js
 - package.json
